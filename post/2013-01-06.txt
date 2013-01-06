@@ -1,0 +1,7 @@
+## other hello world
+DAO 框架
+静态页面生成工具
+YILIAO 群组服务
+YILIAO 相关服务端的集群管理模块
+基于ZK的翼聊服务器监控报警
+ZK集群监控工具
