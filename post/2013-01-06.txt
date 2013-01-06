@@ -1,4 +1,4 @@
-## other hello world
+## 2012年总结
 DAO 框架
 静态页面生成工具
 YILIAO 群组服务
